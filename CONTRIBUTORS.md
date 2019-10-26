@@ -1002,3 +1002,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [Truman Gregg](https://github.com/TrumanGregg)
+- Place: New York City, New York, USA
+- Bio: Student
+- Github: [TrumanGregg](https://github.com/TrumanGregg)
